@@ -14,12 +14,45 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2391299C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - Type some Markdown on the left
 - See HTML in the right
-- ✨Magic ✨     
+- ✨Magic ✨  
+
+  
+  
    
    
 ## 실시한 프로젝트
-#### 1. 병원찾기 서비스     
-#### 2. 병원찾기 서비스
-#### 3. 병원찾기 서비스   
-#### 4. 병원찾기 서비스   
-#### 5. 병원찾기 서비스
+### 1. 병원찾기 서비스   
+<img wwidth="100" height="100" src="https://user-images.githubusercontent.com/45208189/158307254-76d2bee2-6d1c-4f6c-9b4a-4e16891604f0.png"/>
+
+* 소개 : 병원 또는 약국을 찾아주는 안드로이드 앱    
+* 기간 : 2018.05 ~ 2018.08   
+* 담당 : 앱의 백엔드 및 데이터베이스 담당. 로그인 기술 구현   
+* 기술 : 안드로이드 스튜디오, php   
+
+
+### 1. 병원찾기 서비스   
+<img wwidth="100" height="100" src="https://user-images.githubusercontent.com/45208189/158307254-76d2bee2-6d1c-4f6c-9b4a-4e16891604f0.png"/>
+
+* 소개 : 성준혁   
+* 기간 : 성준혁   
+* 담당 : 성준혁   
+* 기술 : 성준혁  
+
+
+### 2. 병원찾기 서비스   
+<img wwidth="100" height="100" src="https://user-images.githubusercontent.com/45208189/158307254-76d2bee2-6d1c-4f6c-9b4a-4e16891604f0.png"/>
+
+* 소개 : 성준혁   
+* 기간 : 성준혁   
+* 담당 : 성준혁   
+* 기술 : 성준혁  
+
+
+### 1. 병원찾기 서비스   
+<img wwidth="100" height="100" src="https://user-images.githubusercontent.com/45208189/158307254-76d2bee2-6d1c-4f6c-9b4a-4e16891604f0.png"/>
+
+* 소개 : 성준혁   
+* 기간 : 성준혁   
+* 담당 : 성준혁   
+* 기술 : 성준혁  
+
