@@ -3,7 +3,7 @@
 
 <img width="30%" src="https://user-images.githubusercontent.com/45208189/158298616-1aa08c48-3c81-416f-9151-3196ac0ac4ac.jpg"/>
 
-### 이름 : 성준혁
+#### 이름 : 성준혁
 
 🎓 Pusan national Univ. Computer Science & Engineering
 
