@@ -3,8 +3,8 @@
 
 <img width="300" height="300" src="https://user-images.githubusercontent.com/45208189/158298616-1aa08c48-3c81-416f-9151-3196ac0ac4ac.jpg"/>
 
-* 이름 : 성준혁  
-🎓 Pusan national Univ. Computer Science & Engineering  
+* 이름 : 성준혁
+* 🎓 Pusan national Univ. Computer Science & Engineering  
 * 생년월일 : 1997-07-05  
 * 군필여부 : 병역 이행중(23년 7월 전역예정).  
 * 취미 : 알고리즘 공부, 볼  
