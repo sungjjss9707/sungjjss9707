@@ -1,7 +1,7 @@
 # Sung Jun Hyeok / 성준혁
 ## _I am the developing officer of Korean army_
 
-https://github.com/sungjjss9707/sungjjss9707/issues/1#issue-1169132519
+<img width="80%" src="https://user-images.githubusercontent.com/45208189/158298616-1aa08c48-3c81-416f-9151-3196ac0ac4ac.jpg"/>
 
 *이름 : 성준혁
 
