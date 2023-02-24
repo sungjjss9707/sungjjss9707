@@ -23,7 +23,7 @@
    
    
 ## 실시한 프로젝트
-### 1. 병원찾기 서비스   
+### 1. [병원찾기 서비스](https://github.com/sungjjss9707/Jean)   
 <img wwidth="100" height="100" src="https://user-images.githubusercontent.com/45208189/158307254-76d2bee2-6d1c-4f6c-9b4a-4e16891604f0.png"/>
 
 *   소개 : 병원 또는 약국을 찾아주는 안드로이드 앱    
