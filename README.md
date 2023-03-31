@@ -8,10 +8,9 @@
 * 생년월일 : 1997-07-05  
 * 군필여부 : 병역 이행중(23년 6월 전역예정).  
 * 자격증 : 정보처리기사 취득  
-* 어학 : OPIC 점, TOEIC 점    
+* 어학 : OPIC IH    
 * 취미 : 알고리즘 공부, 독서, 볼링, 축구  
-* Email : sungjjss9707@naver.com  
-* Blog :   
+* Email : sungjjss9707@naver.com     
 * Main Stack :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![C++](https://img.shields.io/badge/c++-%2391299C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - Type some Markdown on the left
