@@ -21,7 +21,7 @@
   
    
    
-## 실시한 프로젝트
+## 실시한 팀 프로젝트
 ### 1. 병원찾기 서비스   
 <img wwidth="100" height="100" src="https://user-images.githubusercontent.com/45208189/158307254-76d2bee2-6d1c-4f6c-9b4a-4e16891604f0.png"/>
 
