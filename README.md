@@ -17,7 +17,7 @@
 - Type some Markdown on the left
 - See HTML in the right
 - ✨Magic ✨  
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
   
   
    
