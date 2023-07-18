@@ -6,7 +6,7 @@
 * 이름 : 성준혁
 * 🎓 Pusan national Univ. Computer Science & Engineering  
 * 생년월일 : 1997-07-05  
-* 군필여부 : 병역 이행중(23년 6월 전역예정).  
+* 군필여부 : 23년 6월 30일 육군 중위 만기전역.  
 * 자격증 : 정보처리기사 취득  
 * 어학 : OPIC IH    
 * 취미 : 알고리즘 공부, 독서, 볼링, 축구  
@@ -16,8 +16,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2391299C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - Type some Markdown on the left
 - See HTML in the right
-- ✨Magic ✨  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+- ✨Magic ✨
+- 백준 solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungjjhh9707)](https://solved.ac/sungjjhh9707)
   
   
    
